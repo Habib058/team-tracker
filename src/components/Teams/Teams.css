@@ -1,0 +1,20 @@
+
+.teams{
+    float: left;
+    margin: 20px;
+    padding: 20px;
+}
+.teamCard{
+    width: 300px;
+    height: 300px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px;
+    color: black;
+    background-color: white;
+}
+.teamCard:hover{
+    box-shadow:5px 5px gray;
+    background-color:lightsteelblue;
+}

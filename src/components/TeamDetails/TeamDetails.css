@@ -1,0 +1,24 @@
+.detailsContent{
+    width: 1280px;
+    height: 300px;
+    border:1px solid gray;
+    margin-left: 304px;
+    background-color: indigo;
+    color: white;
+    border-radius: 20px;
+}
+.details{
+    float: left;
+    margin-right: 300px;
+    padding-left: 50px;
+    margin-top: 20px;
+}
+.image{
+    margin-top: 20px;
+}
+.textContent{
+    width: 1320px;
+    height: 300px;
+    margin-left: 294px;
+    margin-top: 50px;
+}
